@@ -1,12 +1,18 @@
 ﻿# INT3236E_1_Cloud_Deploy
+## Thông tin sinh viên
+- Họ và tên: Đinh Tiến Hùng
+- MSV: 23020538
 
-## Tạo một ứng dụng expressjs đơn giản:
-<img width="975" height="807" alt="image" src="https://github.com/user-attachments/assets/a78b61e0-b5fa-4a07-ae59-e972b368ee69" />
+
+## Tạo một ứng dụng express.js
+<img width="1142" height="837" alt="image" src="https://github.com/user-attachments/assets/67033b79-32f9-4b20-9b2f-2aa12fcc1744" />
+
 
 ## Cấu hình Dockerfile, sau đó build và push image lên dockerhub
 
-<img width="975" height="903" alt="image" src="https://github.com/user-attachments/assets/0858b490-6e8b-4b74-b317-87ba3301ebf2" />
-<img width="922" height="453" alt="image" src="https://github.com/user-attachments/assets/7959972b-af26-4f4e-ace7-0b219ac7329b" />
+<img width="806" height="391" alt="image" src="https://github.com/user-attachments/assets/068e7211-372d-4fd1-825b-b300d00b16e4" />
+
+<img width="827" height="378" alt="image" src="https://github.com/user-attachments/assets/9b5971e7-5adb-40bf-8650-704c37b2d925" />
 
 <img width="975" height="700" alt="image" src="https://github.com/user-attachments/assets/fecce674-8543-4fc5-895b-fe5f4ef3ad57" />
 
